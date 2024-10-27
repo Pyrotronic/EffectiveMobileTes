@@ -1,0 +1,14 @@
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\bin\Release\net8.0\EffectiveMobileTest.exe
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\bin\Release\net8.0\EffectiveMobileTest.deps.json
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\bin\Release\net8.0\EffectiveMobileTest.runtimeconfig.json
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\bin\Release\net8.0\EffectiveMobileTest.dll
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\bin\Release\net8.0\EffectiveMobileTest.pdb
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\obj\Release\net8.0\EffectiveMobileTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\obj\Release\net8.0\EffectiveMobileTest.AssemblyInfoInputs.cache
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\obj\Release\net8.0\EffectiveMobileTest.AssemblyInfo.cs
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\obj\Release\net8.0\EffectiveMobileTest.csproj.CoreCompileInputs.cache
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\obj\Release\net8.0\EffectiveMobileTest.dll
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\obj\Release\net8.0\refint\EffectiveMobileTest.dll
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\obj\Release\net8.0\EffectiveMobileTest.pdb
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\obj\Release\net8.0\EffectiveMobileTest.genruntimeconfig.cache
+C:\Users\Pyrotronic\source\repos\EffectiveMobileTest\EffectiveMobileTest\obj\Release\net8.0\ref\EffectiveMobileTest.dll
